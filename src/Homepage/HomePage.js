@@ -1,5 +1,4 @@
 import React from "react";
-import Charts from "../Charts/Charts";
 function HomePage() {
     return (
         <main className="center" id="main">
